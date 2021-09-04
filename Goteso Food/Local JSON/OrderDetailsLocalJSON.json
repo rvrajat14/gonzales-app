@@ -1,0 +1,488 @@
+ [
+  {
+  "type": "delivery_address",
+  "title": "Delivery Address",
+  "data": [
+           {
+           "address_id": 575,
+           "address_type": "order",
+           "linked_id": "2",
+           "address_title": "HOME",
+           "address_line1": "160070 Sector 70",
+           "address_line2": "",
+           "address_phone": "12345678",
+           "city": "Mohali",
+           "state": "Punjab",
+           "country": "India",
+           "pincode": "160070",
+           "latitude": "30.7015490456035",
+           "longitude": "76.7178726196289",
+           "default": 0,
+           "created_at": "2018-11-13 04:53:30",
+           "updated_at": "2018-11-13 04:53:30",
+           "created_at_formatted": "3 days ago",
+           "created_at_formatted2": "Nov 13, 2018"
+           }
+           ]
+  },
+  {
+  "type": "order_basic_details",
+  "title": "Basic Details",
+  "data": [
+           {
+           "order_id": 165,
+           "app_type": "laundry",
+           "order_status": "order_received",
+           "customer_id": "520",
+           "store_id": 12,
+           "discount_type": "",
+           "total": "40.8",
+           "created_at": "2018-11-13 04:53:30",
+           "updated_at": "2018-11-13 04:53:30",
+           "delivery_fee": 0,
+           "cancel_reason_admin": null,
+           "cancel_reason_customer": null,
+           "driver_commission": 0,
+           "items_sub_total": 40.8,
+           "store_commission": 1,
+           "status_title": "Order Received",
+           "customer_details": [
+                                {
+                                "user_id": 520,
+                                "first_name": "Mohit",
+                                "last_name": "Kumar",
+                                "email": "mohitkumar@yopmail.com",
+                                "phone": null,
+                                "created_at": "2018-11-13 04:27:32",
+                                "created_at_formatted": "3 days ago",
+                                "loyalty_points": 0,
+                                "total_tasks": 0,
+                                "latest_task": []
+                                }
+                                ],
+           "store_details": [
+                             {
+                             "store_id": 12,
+                             "store_title": "Trishala Laundry Services",
+                             "store_photo": "5be142e299fab_1541489378.jpg",
+                             "store_rating": "0",
+                             "created_at": "2018-10-22 01:26:37",
+                             "address": "140603, India",
+                             "store_phone": "877486246",
+                             "created_at_formatted": "3 weeks ago",
+                             "manager_name": "",
+                             "favourite": 0,
+                             "favourite_store_id": "",
+                             "vendor_name": "",
+                             "store_meta": [
+                                            {
+                                            "store_meta_value_id": "13",
+                                            "store_meta_type_id": "2",
+                                            "value": "45",
+                                            "created_at_formatted": "1 second ago",
+                                            "store_meta_type_title": null,
+                                            "store_meta_type_identifier": null
+                                            },
+                                            {
+                                            "store_meta_value_id": "14",
+                                            "store_meta_type_id": "5",
+                                            "value": "",
+                                            "created_at_formatted": "1 second ago",
+                                            "store_meta_type_title": null,
+                                            "store_meta_type_identifier": null
+                                            },
+                                            {
+                                            "store_meta_value_id": "16",
+                                            "store_meta_type_id": "6",
+                                            "value": "49",
+                                            "created_at_formatted": "1 second ago",
+                                            "store_meta_type_title": "Pickup Time",
+                                            "store_meta_type_identifier": "delivery_time"
+                                            }
+                                            ],
+                             "busy_status": 0,
+                             "busy_status_title": "Open"
+                             }
+                             ],
+           "status_details": [
+                              {
+                              "title": "Order Received",
+                              "color": "#22A9F2",
+                              "label_colors": "#FFF1C0",
+                              "identifier": "order_received",
+                              "status_title": "Order Received"
+                              },
+                              {
+                              "title": "Order Received",
+                              "color": "#22A9F2",
+                              "label_colors": "#FFF1C0",
+                              "identifier": "order_received",
+                              "status_title": "Order Received"
+                              }
+                              ],
+           "order_address_array": [
+                                   {
+                                   "type": "delivery_address",
+                                   "data": [
+                                            {
+                                            "address_id": 575,
+                                            "address_type": "order",
+                                            "linked_id": "2",
+                                            "address_title": "HOME",
+                                            "address_line1": "160070 Sector 70",
+                                            "address_line2": "",
+                                            "address_phone": "12345678",
+                                            "city": "Mohali",
+                                            "state": "Punjab",
+                                            "country": "India",
+                                            "pincode": "160070",
+                                            "latitude": "30.7015490456035",
+                                            "longitude": "76.7178726196289",
+                                            "default": 0,
+                                            "created_at": "2018-11-13 04:53:30",
+                                            "updated_at": "2018-11-13 04:53:30",
+                                            "created_at_formatted": "3 days ago",
+                                            "created_at_formatted2": "Nov 13, 2018"
+                                            }
+                                            ]
+                                   }
+                                   ],
+           "customer_name": "",
+           "store_title": "",
+           "created_at_formatted": "3 days ago"
+           }
+           ]
+  },
+  {
+  "type": "items",
+  "title": "Items",
+  "sub_total": "34",
+  "data": [
+           {
+           "item_id": "184",
+           "order_item_id": "198",
+           "item_title": "T-shirt",
+           "order_item_quantity": "1",
+           "order_item_unit": "lbs",
+           "item_price": "34",
+           "order_item_discount": "0",
+           "item_photo": "5be99bca306eb_1542036426.jpg",
+           "item_thumb_photo": "thumb-5be99bca306eb_1542036426.jpg",
+           "order_item_variant": [
+                                  {
+                                  "order_item_variant_id": "159",
+                                  "order_item_id": "198",
+                                  "item_variant_id": "126",
+                                  "item_variant_title": "Services",
+                                  "order_item_variant_value": "Washing & Iron",
+                                  "created_at": "2018-11-13 04:53:30",
+                                  "updated_at": "2018-11-13 04:53:30",
+                                  "created_at_formatted": "3 days ago"
+                                  },
+                                  {
+                                  "order_item_variant_id": "160",
+                                  "order_item_id": "198",
+                                  "item_variant_id": "127",
+                                  "item_variant_title": "Services",
+                                  "order_item_variant_value": "Washing",
+                                  "created_at": "2018-11-13 04:53:30",
+                                  "updated_at": "2018-11-13 04:53:30",
+                                  "created_at_formatted": "3 days ago"
+                                  }
+                                  ],
+           "created_at_formatted": "1 second ago",
+           "single_quantity_item_price": 12,
+           "item_instructions": [],
+           "single_quantity_item_price_including_variants": 34,
+           "item_unit": "item"
+           }
+           ]
+  },
+  {
+  "type": "customer_details",
+  "title": "Customer Details",
+  "data": [
+           {
+           "user_id": 520,
+           "first_name": "Mohit",
+           "last_name": "Kumar",
+           "user_type": "2",
+           "app_type": null,
+           "store_id": null,
+           "email": "mohitkumar@yopmail.com",
+           "facebook_id": null,
+           "commission": "0",
+           "phone": null,
+           "photo": "",
+           "thumb_photo": null,
+           "status": "1",
+           "referral_code": "Mohit4636",
+           "vendor_id": "0",
+           "otp": "367944",
+           "remember_token": "",
+           "email_token": "",
+           "longitude": "",
+           "latitude": "",
+           "default_address_id": "0",
+           "created_at": "2018-11-13 04:27:32",
+           "updated_at": "2018-11-13 04:27:32",
+           "created_at_formatted": "3 days ago",
+           "loyalty_points": 0,
+           "total_tasks": 0,
+           "latest_task": []
+           }
+           ]
+  },
+  {
+  "type": "payment_details",
+  "title": "Payment Details",
+  "order_total": "40.8",
+  "data": [
+           {
+           "title": "Order Sub Total",
+           "value": "34"
+           },
+           {
+           "title": "Discount",
+           "value": "0"
+           },
+           {
+           "title": "Service Tax",
+           "value": "3.4"
+           },
+           {
+           "title": "VAT Tax",
+           "value": "3.4"
+           },
+           {
+           "title": "Delivery Charges",
+           "value": "0"
+           }
+           ]
+  },
+  {
+  "type": "order_meta",
+  "title": "Additional Details",
+  "data": [
+           {
+           "title": "Delivery Boy Notes",
+           "value": ""
+           },
+           {
+           "title": "Delivery Type",
+           "value": "Home Delivery"
+           },
+           {
+           "title": "Select Booking Time",
+           "value": "order_later"
+           },
+           {
+           "title": "PickUp Time",
+           "value": "Tue 13 Nov,2018, 06:20:30 - 18:20:33"
+           },
+           {
+           "title": "Select Booking Time",
+           "value": "Tue 13 Nov,2018, 06:20:30 - 18:20:33"
+           }
+           ]
+  },
+  {
+  "type": "store_details",
+  "title": "Store Details",
+  "data": [
+           {
+           "store_id": 12,
+           "app_type": "laundry",
+           "store_title": "Trishala Laundry Services",
+           "sort_index": "0",
+           "store_photo": "5be142e299fab_1541489378.jpg",
+           "store_phone": "877486246",
+           "store_thumb_photo": "thumb-5be142e299fab_1541489378.jpg",
+           "store_rating": "0",
+           "latitude": "30.63922764428086",
+           "longitude": "76.78536270349127",
+           "address": "140603, India",
+           "vendor_id": "0",
+           "featured": "0",
+           "busy_end_time": "2018-10-21 01:26:37",
+           "popular_count": "245",
+           "manager_id": "511",
+           "commission": "1",
+           "store_tax": "1",
+           "created_at": "2018-10-22 01:26:37",
+           "updated_at": "2018-11-13 08:59:07",
+           "meta": [
+                    {
+                    "store_meta_value_id": "13",
+                    "store_meta_type_id": "2",
+                    "value": "45",
+                    "created_at_formatted": "1 second ago",
+                    "store_meta_type_title": null,
+                    "store_meta_type_identifier": null
+                    },
+                    {
+                    "store_meta_value_id": "14",
+                    "store_meta_type_id": "5",
+                    "value": "",
+                    "created_at_formatted": "1 second ago",
+                    "store_meta_type_title": null,
+                    "store_meta_type_identifier": null
+                    },
+                    {
+                    "store_meta_value_id": "16",
+                    "store_meta_type_id": "6",
+                    "value": "49",
+                    "created_at_formatted": "1 second ago",
+                    "store_meta_type_title": "Pickup Time",
+                    "store_meta_type_identifier": "delivery_time"
+                    }
+                    ],
+           "created_at_formatted": "3 weeks ago",
+           "manager_name": "shikha",
+           "favourite": 0,
+           "favourite_store_id": "",
+           "vendor_name": "",
+           "minimum_price": 0,
+           "store_meta": [
+                          {
+                          "store_meta_value_id": "13",
+                          "store_meta_type_id": "2",
+                          "value": "45",
+                          "created_at_formatted": "1 second ago",
+                          "store_meta_type_title": null,
+                          "store_meta_type_identifier": null
+                          },
+                          {
+                          "store_meta_value_id": "14",
+                          "store_meta_type_id": "5",
+                          "value": "",
+                          "created_at_formatted": "1 second ago",
+                          "store_meta_type_title": null,
+                          "store_meta_type_identifier": null
+                          },
+                          {
+                          "store_meta_value_id": "16",
+                          "store_meta_type_id": "6",
+                          "value": "49",
+                          "created_at_formatted": "1 second ago",
+                          "store_meta_type_title": "Pickup Time",
+                          "store_meta_type_identifier": "delivery_time"
+                          }
+                          ],
+           "busy_status": 0,
+           "busy_status_title": "Open"
+           }
+           ]
+  },
+  {
+  "type": "customer_buttons",
+  "title": "Actions",
+  "data": [
+           {
+           "title": "Cancel Order",
+           "enabled": "1",
+           "action": "cancelled",
+           "status_details": [
+                              {
+                              "id": 1,
+                              "app_type": "grocery",
+                              "title": "Order Received",
+                              "color": "#22A9F2",
+                              "label_colors": "#FFF1C0",
+                              "identifier": "order_received",
+                              "type": "order_received",
+                              "customer_notify": "1",
+                              "created_at": null,
+                              "updated_at": null,
+                              "status_title": "Order Received"
+                              },
+                              {
+                              "id": 8,
+                              "app_type": "laundry",
+                              "title": "Order Received",
+                              "color": "#22A9F2",
+                              "label_colors": "#FFF1C0",
+                              "identifier": "order_received",
+                              "type": "order_received",
+                              "customer_notify": "1",
+                              "created_at": null,
+                              "updated_at": null,
+                              "status_title": "Order Received"
+                              }
+                              ]
+           }
+           ]
+  },
+  {
+  "type": "admin_buttons",
+  "title": "Actions",
+  "data": [
+           {
+           "title": "Accept Order",
+           "enabled": "1",
+           "action": "order_accepted",
+           "status_details": [
+                              {
+                              "id": 1,
+                              "app_type": "grocery",
+                              "title": "Order Received",
+                              "color": "#22A9F2",
+                              "label_colors": "#FFF1C0",
+                              "identifier": "order_received",
+                              "type": "order_received",
+                              "customer_notify": "1",
+                              "created_at": null,
+                              "updated_at": null,
+                              "status_title": "Order Received"
+                              },
+                              {
+                              "id": 8,
+                              "app_type": "laundry",
+                              "title": "Order Received",
+                              "color": "#22A9F2",
+                              "label_colors": "#FFF1C0",
+                              "identifier": "order_received",
+                              "type": "order_received",
+                              "customer_notify": "1",
+                              "created_at": null,
+                              "updated_at": null,
+                              "status_title": "Order Received"
+                              }
+                              ]
+           },
+           {
+           "title": "Mark Cancelled",
+           "enabled": "1",
+           "action": "cancelled",
+           "status_details": [
+                              {
+                              "id": 7,
+                              "app_type": "grocery",
+                              "title": "Cancelled",
+                              "color": "#D8D8D8",
+                              "label_colors": "#FF8080",
+                              "identifier": "cancelled",
+                              "type": "cancelled",
+                              "customer_notify": "1",
+                              "created_at": null,
+                              "updated_at": null,
+                              "status_title": "Cancelled"
+                              },
+                              {
+                              "id": 14,
+                              "app_type": "laundry",
+                              "title": "Cancelled",
+                              "color": "#828282",
+                              "label_colors": "#FF8080",
+                              "identifier": "cancelled",
+                              "type": "cancelled",
+                              "customer_notify": "1",
+                              "created_at": null,
+                              "updated_at": null,
+                              "status_title": "Cancelled"
+                              }
+                              ]
+           }
+           ]
+  }
+  ]

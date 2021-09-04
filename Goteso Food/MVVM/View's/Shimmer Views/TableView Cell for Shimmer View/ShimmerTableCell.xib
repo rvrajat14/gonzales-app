@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="69" id="KGk-i7-Jjw" customClass="ShimmerTableCell" customModule="My_MM" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="69"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="68.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aQD-OB-LXj">
+                        <rect key="frame" x="77" y="17" width="142" height="14"/>
+                        <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="142" id="4yp-aQ-C32"/>
+                            <constraint firstAttribute="height" constant="14" id="XlQ-Ia-on5"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xFx-ED-dDN">
+                        <rect key="frame" x="14" y="10" width="55" height="50"/>
+                        <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="50" id="bJI-AQ-i7d"/>
+                            <constraint firstAttribute="width" constant="55" id="fAD-e7-Vvr"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GX8-HF-ZiW">
+                        <rect key="frame" x="77" y="38" width="68" height="14"/>
+                        <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="68" id="Zkj-xK-acx"/>
+                            <constraint firstAttribute="height" constant="14" id="bls-Rn-nMO"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="xFx-ED-dDN" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="Bjq-sp-v5q"/>
+                    <constraint firstItem="GX8-HF-ZiW" firstAttribute="top" secondItem="aQD-OB-LXj" secondAttribute="bottom" constant="7" id="IOp-kM-wjA"/>
+                    <constraint firstAttribute="bottom" secondItem="xFx-ED-dDN" secondAttribute="bottom" constant="8.5" id="N1s-ci-Sag"/>
+                    <constraint firstItem="xFx-ED-dDN" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="14" id="dNg-rT-jUB"/>
+                    <constraint firstItem="aQD-OB-LXj" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="17" id="ikc-CC-zvv"/>
+                    <constraint firstItem="GX8-HF-ZiW" firstAttribute="leading" secondItem="xFx-ED-dDN" secondAttribute="trailing" constant="8" id="jXd-Yj-u7e"/>
+                    <constraint firstItem="aQD-OB-LXj" firstAttribute="leading" secondItem="xFx-ED-dDN" secondAttribute="trailing" constant="8" id="uwG-uS-Jyy"/>
+                    <constraint firstAttribute="bottom" secondItem="GX8-HF-ZiW" secondAttribute="bottom" constant="16.5" id="ynU-an-Iaq"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="imageLbl" destination="xFx-ED-dDN" id="MIt-8o-BVM"/>
+                <outlet property="lbl1" destination="aQD-OB-LXj" id="ehV-js-7K0"/>
+            </connections>
+            <point key="canvasLocation" x="25" y="51.5"/>
+        </tableViewCell>
+    </objects>
+</document>

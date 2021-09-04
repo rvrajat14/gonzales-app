@@ -1,0 +1,84 @@
+
+{
+    "status_code": 1,
+    "status_text": "Success",
+    "message": "Item Variant Fetched Successfully",
+    "data":[
+            {
+            
+            "title":"Choice",
+            "data": [
+                     {
+                     "item_setting_variant_type_id": 1,
+                     "item_setting_variant_type_title": "Type",
+                     "price_status": "0",
+                     "price_difference_status": "1",
+                     "photo_status": "1",
+                     "variant_stock_count_status": "0",
+                     "minimum_selection_needed": "0",
+                     "maximum_selection_needed": "1",
+                     "selection_type": "single",
+                     "created_at": null,
+                     "updated_at": null,
+                     "item_variant_values": [
+                                             {
+                                             "item_variant_value_id": 6,
+                                             "item_variant_type_id": "1",
+                                             "item_variant_value_title": "Washing",
+                                             "item_id": "8",
+                                             "item_variant_price": "0",
+                                             "item_variant_price_difference": "10",
+                                             "item_variant_photo": "0",
+                                             "item_variant_stock_count": "0",
+                                             "created_at": "2018-11-16 04:29:23",
+                                             "updated_at": "2018-11-16 04:29:23",
+                                             "created_at_formatted": "1 minute ago",
+                                             "created_at_formatted2": "Nov 16, 2018",
+                                             "selection_type": "single",
+                                             "item_title": "Barramundi",
+                                             "item_variant_type_title": "Type"
+                                             },
+                                             {
+                                             "item_variant_value_id": 5,
+                                             "item_variant_type_id": "1",
+                                             "item_variant_value_title": "Iron",
+                                             "item_id": "8",
+                                             "item_variant_price": "0",
+                                             "item_variant_price_difference": "10",
+                                             "item_variant_photo": "0",
+                                             "item_variant_stock_count": "0",
+                                             "created_at": "2018-11-16 04:28:58",
+                                             "updated_at": "2018-11-16 04:28:58",
+                                             "created_at_formatted": "2 minutes ago",
+                                             "created_at_formatted2": "Nov 16, 2018",
+                                             "selection_type": "single",
+                                             "item_title": "Barramundi",
+                                             "item_variant_type_title": "Type"
+                                             }
+                                             ],
+                     "created_at_formatted": "1 second ago",
+                     "created_at_formatted2": "Nov 16, 2018"
+                     }
+                     ]
+            
+            },
+            {
+            "title":"Instructions",
+            "data":[{
+                    "order_item_instructions_type_id":"e3",
+                    "order_item_instructions_type_title":"Neck",
+                    "order_item_instructions_type_placeholder":"Type Neck Details",
+                    "value":""
+                    },
+                    {
+                    "order_item_instructions_type_id":"43",
+                    "order_item_instructions_type_title":"Collar",
+                    "order_item_instructions_type_placeholder":"Type Collar Details..",
+                    "value":""
+                    }
+                    
+                    ]}
+            ]
+    
+    
+}

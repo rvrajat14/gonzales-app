@@ -1,0 +1,84 @@
+{
+    "status_code": 1,
+    "status_text": "Success",
+    "message": "Order Calculation Fetched",
+    "data": [
+        {
+            "data": [
+                {
+                    "title": "Sub Total",
+                    "value": 135
+                },
+                {
+                    "title": "Convenience Fee",
+                    "value": 4.05
+                },
+                {
+                    "title": "Service Fee",
+                    "value": 13.5
+                }
+            ],
+            "discount_response": {
+                "status_code": 0,
+                "status_text": "Failed",
+                "message": "Coupon does not exits",
+                "data": [],
+                "discount": 0
+            },
+            "total": 152.55,
+            "items": [
+                {
+                    "vendor_name": null,
+                    "item_stock_count_type": null,
+                    "itemTotalPriceForCartPage": 135,
+                    "item_categories": "5",
+                    "variants": [
+                        {
+                            "item_variant_stock_count": "0",
+                            "item_variant_price": "0",
+                            "item_variant_type_id": "1",
+                            "item_variant_type_title": "Type",
+                            "item_id": "8",
+                            "created_at": "2018-11-16 04:29:23",
+                            "item_title": "Barramundi",
+                            "item_variant_value_id": 6,
+                            "item_variant_price_difference": "10",
+                            "item_variant_photo": "0",
+                            "updated_at": "2018-11-16 04:29:23",
+                            "selection_type": "single",
+                            "created_at_formatted": "1 hour ago",
+                            "item_variant_value_title": "medium",
+                            "created_at_formatted2": "Nov 16, 2018",
+                            "selected_variants": "1"
+                        }
+                    ],
+                    "item_active_status": "active",
+                    "updated_at": "2018-11-16 04:29:38",
+                    "item_discount_expiry_date": "2018-11-23 04:29:38",
+                    "vendor_id": 0,
+                    "store_title": "Panda Express",
+                    "item_discount": 0,
+                    "store_id": 18,
+                    "itemTotalPrice": 10,
+                    "item_tags_formatted": [],
+                    "created_at_formatted": "1 day ago",
+                    "quantity": 3,
+                    "created_at_formatted2": "Nov 15, 2018",
+                    "item_stock_count": 0,
+                    "item_photo": "5beced4b8743b_1542253899.jpg",
+                    "item_tags": null,
+                    "item_price": "35",
+                    "item_id": 8,
+                    "variant_exist": 1,
+                    "created_at": "2018-11-15 03:51:46",
+                    "item_title": "Barramundi",
+                    "discounted_price": 35,
+                    "item_thumb_photo": "thumb-5beced4b8743b_1542253899.jpg",
+                    "item_unit": "item"
+                }
+            ]
+        }
+    ],
+    "points_title": "you do not have enough loyalty points available",
+    "use_button_enabled": "0"
+}

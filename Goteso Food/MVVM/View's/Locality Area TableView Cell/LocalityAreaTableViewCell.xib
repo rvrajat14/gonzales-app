@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="OpenSans-Regular.ttf">
+            <string>OpenSans</string>
+        </array>
+        <array key="OpenSans-Semibold.ttf">
+            <string>OpenSans-Semibold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="109" id="KGk-i7-Jjw" customClass="LocalityAreaTableViewCell" customModule="Food" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="89"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="88.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="P1n-Bl-DNC">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="88.5"/>
+                        <subviews>
+                            <view hidden="YES" alpha="0.5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="j2w-Q7-9Ya">
+                                <rect key="frame" x="0.0" y="87.5" width="320" height="1"/>
+                                <color key="backgroundColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="R75-5h-fDR"/>
+                                </constraints>
+                            </view>
+                            <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="location_gray" translatesAutoresizingMaskIntoConstraints="NO" id="kFA-Qo-cOs">
+                                <rect key="frame" x="15" y="50" width="25" height="25"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="25" id="LR7-8U-eUg"/>
+                                    <constraint firstAttribute="width" constant="25" id="jRQ-BQ-ImL"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mohali Phase 5, sector 59" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XJd-uA-gyh">
+                                <rect key="frame" x="48" y="56" width="257" height="12.5"/>
+                                <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="15"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="0.80369755993150682" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Select Current Location" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="K6e-fd-k7Z">
+                                <rect key="frame" x="48" y="15" width="257" height="22"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="22" id="lIr-eU-xkm"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="OpenSans-Semibold" family="Open Sans" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="XJd-uA-gyh" firstAttribute="top" secondItem="K6e-fd-k7Z" secondAttribute="bottom" constant="19" id="7nq-bQ-hIV"/>
+                            <constraint firstItem="j2w-Q7-9Ya" firstAttribute="leading" secondItem="P1n-Bl-DNC" secondAttribute="leading" id="7s8-Vk-FTj"/>
+                            <constraint firstItem="kFA-Qo-cOs" firstAttribute="leading" secondItem="P1n-Bl-DNC" secondAttribute="leading" constant="15" id="Ahv-Zc-Ezl"/>
+                            <constraint firstItem="XJd-uA-gyh" firstAttribute="leading" secondItem="kFA-Qo-cOs" secondAttribute="trailing" constant="8" id="I4v-jw-Lzi"/>
+                            <constraint firstItem="kFA-Qo-cOs" firstAttribute="centerY" secondItem="XJd-uA-gyh" secondAttribute="centerY" id="Lk1-jQ-hYg"/>
+                            <constraint firstAttribute="trailing" secondItem="K6e-fd-k7Z" secondAttribute="trailing" constant="15" id="Udz-29-IVj"/>
+                            <constraint firstAttribute="bottom" secondItem="j2w-Q7-9Ya" secondAttribute="bottom" id="XNc-HV-pCy"/>
+                            <constraint firstAttribute="trailing" secondItem="j2w-Q7-9Ya" secondAttribute="trailing" id="fcS-FY-TDE"/>
+                            <constraint firstItem="K6e-fd-k7Z" firstAttribute="leading" secondItem="P1n-Bl-DNC" secondAttribute="leading" constant="48" id="mKG-0j-i3j"/>
+                            <constraint firstItem="K6e-fd-k7Z" firstAttribute="top" secondItem="P1n-Bl-DNC" secondAttribute="top" constant="15" id="n90-d8-7Ka"/>
+                            <constraint firstItem="j2w-Q7-9Ya" firstAttribute="top" secondItem="XJd-uA-gyh" secondAttribute="bottom" constant="19" id="rze-Ou-adD"/>
+                            <constraint firstAttribute="trailing" secondItem="XJd-uA-gyh" secondAttribute="trailing" constant="15" id="vGD-Gk-j0k"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="P1n-Bl-DNC" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="JXo-P0-NU2"/>
+                    <constraint firstItem="P1n-Bl-DNC" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="esm-FW-18t"/>
+                    <constraint firstAttribute="bottom" secondItem="P1n-Bl-DNC" secondAttribute="bottom" id="gGv-fN-p9t"/>
+                    <constraint firstAttribute="trailing" secondItem="P1n-Bl-DNC" secondAttribute="trailing" id="taz-D1-wjt"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="locationNameLbl" destination="XJd-uA-gyh" id="cy8-Xt-IHU"/>
+                <outlet property="titleLbl" destination="K6e-fd-k7Z" id="krT-X9-l3G"/>
+            </connections>
+            <point key="canvasLocation" x="24" y="82.3088455772114"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="location_gray" width="21" height="21"/>
+    </resources>
+</document>

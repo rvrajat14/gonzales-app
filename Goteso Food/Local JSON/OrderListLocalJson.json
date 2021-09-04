@@ -1,0 +1,143 @@
+{
+    "status_code": 1,
+    "status_text": "Success",
+    "message": "Item List Fetched Successfully",
+    "data": {
+        "current_page": 1,
+        "data": [
+            {
+                "order_id": 165,
+                "app_type": "laundry",
+                "order_status": "order_received",
+                "customer_id": "520",
+                "store_id": 12,
+                "discount_type": "",
+                "total": "40.8",
+                "created_at": "2018-11-13 04:53:30",
+                "updated_at": "2018-11-13 04:53:30",
+                "delivery_fee": 0,
+                "cancel_reason_admin": null,
+                "cancel_reason_customer": null,
+                "driver_commission": 0,
+                "items_sub_total": 40.8,
+                "store_commission": 1,
+                "status_title": "Order Received",
+                "customer_details": [
+                    {
+                        "user_id": 520,
+                        "first_name": "Mohit",
+                        "last_name": "Kumar",
+                        "email": "mohitkumar@yopmail.com",
+                        "phone": null,
+                        "created_at": "2018-11-13 04:27:32",
+                        "created_at_formatted": "3 days ago",
+                        "loyalty_points": 0,
+                        "total_tasks": 0,
+                        "latest_task": []
+                    }
+                ],
+                "store_details": [
+                    {
+                        "store_id": 12,
+                        "store_title": "Trishala Laundry Services",
+                        "store_photo": "5be142e299fab_1541489378.jpg",
+                        "store_rating": "0",
+                        "created_at": "2018-10-22 01:26:37",
+                        "address": "140603, India",
+                        "store_phone": "877486246",
+                        "created_at_formatted": "3 weeks ago",
+                        "manager_name": "",
+                        "favourite": 0,
+                        "favourite_store_id": "",
+                        "vendor_name": "",
+                        "store_meta": [
+                            {
+                                "store_meta_value_id": "13",
+                                "store_meta_type_id": "2",
+                                "value": "45",
+                                "created_at_formatted": "1 second ago",
+                                "store_meta_type_title": null,
+                                "store_meta_type_identifier": null
+                            },
+                            {
+                                "store_meta_value_id": "14",
+                                "store_meta_type_id": "5",
+                                "value": "",
+                                "created_at_formatted": "1 second ago",
+                                "store_meta_type_title": null,
+                                "store_meta_type_identifier": null
+                            },
+                            {
+                                "store_meta_value_id": "16",
+                                "store_meta_type_id": "6",
+                                "value": "49",
+                                "created_at_formatted": "1 second ago",
+                                "store_meta_type_title": "Pickup Time",
+                                "store_meta_type_identifier": "delivery_time"
+                            }
+                        ],
+                        "busy_status": 0,
+                        "busy_status_title": "Open"
+                    }
+                ],
+                "status_details": [
+                    {
+                        "title": "Order Received",
+                        "color": "#22A9F2",
+                        "label_colors": "#FFF1C0",
+                        "identifier": "order_received",
+                        "status_title": "Order Received"
+                    },
+                    {
+                        "title": "Order Received",
+                        "color": "#22A9F2",
+                        "label_colors": "#FFF1C0",
+                        "identifier": "order_received",
+                        "status_title": "Order Received"
+                    }
+                ],
+                "order_address_array": [
+                    {
+                        "type": "delivery_address",
+                        "data": [
+                            {
+                                "address_id": 575,
+                                "address_type": "order",
+                                "linked_id": "2",
+                                "address_title": "HOME",
+                                "address_line1": "160070 Sector 70",
+                                "address_line2": "",
+                                "address_phone": "12345678",
+                                "city": "Mohali",
+                                "state": "Punjab",
+                                "country": "India",
+                                "pincode": "160070",
+                                "latitude": "30.7015490456035",
+                                "longitude": "76.7178726196289",
+                                "default": 0,
+                                "created_at": "2018-11-13 04:53:30",
+                                "updated_at": "2018-11-13 04:53:30",
+                                "created_at_formatted": "3 days ago",
+                                "created_at_formatted2": "Nov 13, 2018"
+                            }
+                        ]
+                    }
+                ],
+                "customer_name": "",
+                "store_title": "",
+                "created_at_formatted": "3 days ago"
+            }
+        ],
+        "first_page_url": "http://demo.goteso.com/g_commerce_multiapp/public/api/v1/orders?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "http://demo.goteso.com/g_commerce_multiapp/public/api/v1/orders?page=1",
+        "next_page_url": null,
+        "path": "http://demo.goteso.com/g_commerce_multiapp/public/api/v1/orders",
+        "per_page": 20,
+        "prev_page_url": null,
+        "to": 1,
+        "total": 1
+    },
+    "count_data": []
+}

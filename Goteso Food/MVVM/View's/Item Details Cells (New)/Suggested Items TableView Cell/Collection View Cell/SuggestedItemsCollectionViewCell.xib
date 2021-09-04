@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="OpenSans-Regular.ttf">
+            <string>OpenSans</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="SuggestedItemsCollectionViewCell" customModule="GotesoMM2" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="140" height="133"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="140" height="133"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dJL-FB-8H8">
+                        <rect key="frame" x="0.0" y="0.0" width="140" height="133"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="food_image" translatesAutoresizingMaskIntoConstraints="NO" id="djF-97-ueh">
+                                <rect key="frame" x="0.0" y="0.0" width="140" height="80"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="80" id="4nP-ve-xXh"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xq0-xS-nfX">
+                                <rect key="frame" x="2" y="88" width="136" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="eek-3o-d4Q"/>
+                                </constraints>
+                                <string key="text">Milk 
+A</string>
+                                <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="14"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$14" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Os9-7S-ylO">
+                                <rect key="frame" x="2" y="112" width="136" height="16"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="16" id="sBx-4u-Rfk"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="12"/>
+                                <color key="textColor" white="0.53937068250444198" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Xq0-xS-nfX" firstAttribute="leading" secondItem="dJL-FB-8H8" secondAttribute="leading" constant="2" id="0So-k9-lam"/>
+                            <constraint firstAttribute="trailing" secondItem="djF-97-ueh" secondAttribute="trailing" id="3VO-9q-HCG"/>
+                            <constraint firstItem="djF-97-ueh" firstAttribute="top" secondItem="dJL-FB-8H8" secondAttribute="top" id="6cG-bF-Hvg"/>
+                            <constraint firstAttribute="trailing" secondItem="Xq0-xS-nfX" secondAttribute="trailing" constant="2" id="971-4s-Dbw"/>
+                            <constraint firstItem="Os9-7S-ylO" firstAttribute="leading" secondItem="dJL-FB-8H8" secondAttribute="leading" constant="2" id="KfS-nh-GbW"/>
+                            <constraint firstItem="Os9-7S-ylO" firstAttribute="top" secondItem="Xq0-xS-nfX" secondAttribute="bottom" constant="4" id="Qmg-Vo-wox"/>
+                            <constraint firstAttribute="trailing" secondItem="Os9-7S-ylO" secondAttribute="trailing" constant="2" id="TKl-GZ-1yp"/>
+                            <constraint firstItem="Xq0-xS-nfX" firstAttribute="top" secondItem="djF-97-ueh" secondAttribute="bottom" constant="8" id="ZTO-2E-307"/>
+                            <constraint firstItem="djF-97-ueh" firstAttribute="leading" secondItem="dJL-FB-8H8" secondAttribute="leading" id="f8F-xK-pwy"/>
+                            <constraint firstAttribute="height" constant="133" id="hek-h3-xC0"/>
+                            <constraint firstAttribute="bottom" secondItem="Os9-7S-ylO" secondAttribute="bottom" constant="5" id="rzb-RJ-kAs"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="dJL-FB-8H8" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="DU6-aA-vc2"/>
+                <constraint firstItem="dJL-FB-8H8" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="aFM-3e-BwH"/>
+                <constraint firstAttribute="bottom" secondItem="dJL-FB-8H8" secondAttribute="bottom" id="lCn-hd-9K4"/>
+                <constraint firstAttribute="trailing" secondItem="dJL-FB-8H8" secondAttribute="trailing" id="vJK-2a-6VH"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="140" height="132"/>
+            <connections>
+                <outlet property="itemImgV" destination="djF-97-ueh" id="phd-X2-X15"/>
+                <outlet property="itemNameLbl" destination="Xq0-xS-nfX" id="64S-Hg-81j"/>
+                <outlet property="itemPriceLbl" destination="Os9-7S-ylO" id="c5q-dM-g8J"/>
+            </connections>
+            <point key="canvasLocation" x="216" y="186.65667166416793"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="food_image" width="2400" height="1600"/>
+    </resources>
+</document>

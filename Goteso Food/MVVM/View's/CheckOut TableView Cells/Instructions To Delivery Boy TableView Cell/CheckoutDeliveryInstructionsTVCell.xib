@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="OpenSans-Italic.ttf">
+            <string>OpenSans-Italic</string>
+        </array>
+        <array key="OpenSans-Regular.ttf">
+            <string>OpenSans</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="CheckoutDeliveryInstructionsTVCell" rowHeight="117" id="KGk-i7-Jjw" customClass="CheckoutDeliveryInstructionsTVCell" customModule="GotesoMM2" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="125"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="124.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="8BY-99-j8b" customClass="IQTextView">
+                        <rect key="frame" x="25" y="44" width="273" height="70"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="70" id="5mk-7Z-LMN"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="15"/>
+                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                    </textView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mLw-6w-NTL">
+                        <rect key="frame" x="25" y="12" width="270" height="23.5"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="23.5" id="J1N-9q-wLU"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="OpenSans-Italic" family="Open Sans" pointSize="16"/>
+                        <color key="textColor" red="0.62745098040000002" green="0.62745098040000002" blue="0.62745098040000002" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view hidden="YES" clipsSubviews="YES" alpha="0.5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="saf-0W-wbZ">
+                        <rect key="frame" x="25" y="124" width="295" height="0.5"/>
+                        <color key="backgroundColor" red="0.58431372550000005" green="0.58431372550000005" blue="0.58431372550000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="0.5" id="JBY-Vs-wLB"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="8BY-99-j8b" secondAttribute="bottom" constant="10.5" id="AmN-vB-4YU"/>
+                    <constraint firstItem="mLw-6w-NTL" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="25" id="K4N-z3-nLv"/>
+                    <constraint firstAttribute="trailing" secondItem="saf-0W-wbZ" secondAttribute="trailing" id="MpA-dR-bAt"/>
+                    <constraint firstAttribute="trailing" secondItem="8BY-99-j8b" secondAttribute="trailing" constant="22" id="NpQ-a3-qpC"/>
+                    <constraint firstItem="saf-0W-wbZ" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="25" id="V5O-hc-ZHD"/>
+                    <constraint firstItem="8BY-99-j8b" firstAttribute="top" secondItem="mLw-6w-NTL" secondAttribute="bottom" constant="8.5" id="VDY-1J-56V"/>
+                    <constraint firstAttribute="trailing" secondItem="mLw-6w-NTL" secondAttribute="trailing" constant="25" id="XQa-GY-dOV"/>
+                    <constraint firstItem="8BY-99-j8b" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="25" id="cSz-mf-1ib"/>
+                    <constraint firstItem="mLw-6w-NTL" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="12" id="d7C-gU-cFE"/>
+                    <constraint firstAttribute="bottom" secondItem="saf-0W-wbZ" secondAttribute="bottom" id="nXW-2C-VfJ"/>
+                    <constraint firstItem="saf-0W-wbZ" firstAttribute="top" secondItem="8BY-99-j8b" secondAttribute="bottom" constant="10" id="ovS-1Y-2sY"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="instructionTxtView" destination="8BY-99-j8b" id="aaT-Z4-aim"/>
+                <outlet property="separatorV" destination="saf-0W-wbZ" id="6Xq-RB-GBc"/>
+                <outlet property="titleLbl" destination="mLw-6w-NTL" id="OKT-A0-56d"/>
+            </connections>
+            <point key="canvasLocation" x="24" y="85.007496251874073"/>
+        </tableViewCell>
+    </objects>
+</document>

@@ -1,0 +1,109 @@
+{
+    "title": "Additional Information",
+    "fields": [
+               {
+               "setting_order_meta_type_id": "3",
+               "setting_order_meta_type_title": "Laundry Business Information",
+               "important": "0",
+               "required_or_not": "1",
+               "field_options": "",
+               "identifier": "store_information",
+               "parent_identifier": "",
+               "input_type": "display",
+               "show_bool": 0,
+               "display_show_rule": "",
+               "api": "",
+               "value": "Demo Data",
+               "created_at_formatted": "1 second ago"
+               }
+               ,
+               
+               {
+               "setting_order_meta_type_id": "2",
+               "setting_order_meta_type_title": "Delivery Address",
+               "important": "0",
+               "required_or_not": "1",
+               "field_options": "",
+               "identifier": "delivery_address",
+               "parent_identifier": "delivery_type",
+               "input_type": "address",
+               "show_bool": 0,
+               "display_show_rule": "",
+               "api": "",
+               "value": "",
+               "created_at_formatted": "1 second ago"
+               },
+               {
+               "setting_order_meta_type_id": "4",
+               "setting_order_meta_type_title": "Delivery Boy Notes",
+               "important": "1",
+               "required_or_not": "0",
+               "field_options": "",
+               "identifier": "notes",
+               "parent_identifier": "delivery_type",
+               "input_type": "text",
+               "show_bool": 0,
+               "display_show_rule": "",
+               "api": "",
+               "value": "",
+               "created_at_formatted": "1 second ago"
+               }
+               ,
+               
+               {
+               "setting_order_meta_type_id": "6",
+               "setting_order_meta_type_title": "Select Booking Time",
+               "important": "1",
+               "required_or_not": "1",
+               "field_options": [
+                                 {
+                                 "title": "Order Now",
+                                 "value": "order_now"
+                                 },
+                                 {
+                                 "title": "Order Later",
+                                 "value": "order_later"
+                                 }
+                                 ],
+               "identifier": "order_time",
+               "parent_identifier": "",
+               "input_type": "radio",
+               "show_bool": 1,
+               "display_show_rule": "",
+               "api": "",
+               "value": "",
+               "created_at_formatted": "1 second ago"
+               },
+               {
+               "setting_order_meta_type_id": "7",
+               "setting_order_meta_type_title": "PickUp Time",
+               "important": "1",
+               "required_or_not": "1",
+               "field_options": "",
+               "identifier": "pickup_time",
+               "parent_identifier": "order_time",
+               "input_type": "timeSlotsPicker",
+               "show_bool": 0,
+               "display_show_rule": "order_time=order_later",
+               "api": "",
+               "value": "",
+               "created_at_formatted": "1 second ago"
+               },
+               {
+               "setting_order_meta_type_id": "8",
+               "setting_order_meta_type_title": "Select Booking Time",
+               "important": "1",
+               "required_or_not": "1",
+               "field_options": "",
+               "identifier": "delivery_time",
+               "parent_identifier": "order_time",
+               "input_type": "timeSlotsPicker",
+               "show_bool": 0,
+               "display_show_rule": "",
+               "api": "",
+               "value": "",
+               "created_at_formatted": "1 second ago"
+               }
+               
+               ]
+}

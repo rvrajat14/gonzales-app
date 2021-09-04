@@ -1,0 +1,873 @@
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "0SV-c4-7Ic"; */
+"0SV-c4-7Ic.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "0lU-J4-dLu"; */
+"0lU-J4-dLu.text" = "/";
+
+/* Class = "UINavigationItem"; title = "Choose your Area"; ObjectID = "19i-1m-6h6"; */
+"19i-1m-6h6.title" = "Choose your Area";
+
+/* Class = "UILabel"; text = "We will add FAQ here soon.\nBear with us:)"; ObjectID = "1Ht-WF-dt8"; */
+"1Ht-WF-dt8.text" = "We will add FAQ here soon.\nBear with us:)";
+
+/* Class = "UILabel"; text = "Are you sure you want to cancel the order ?"; ObjectID = "1hE-m4-NWH"; */
+"1hE-m4-NWH.text" = "Are you sure you want to cancel the order ?";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "1t0-WO-eVs"; */
+"1t0-WO-eVs.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "HOME"; ObjectID = "25v-ql-IzK"; */
+"25v-ql-IzK.normalTitle" = "HOME";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "26B-Gp-q4T"; */
+"26B-Gp-q4T.text" = "N/A";
+
+/* Class = "UILabel"; text = "TOTAL POINTS"; ObjectID = "2FN-qa-mwb"; */
+"2FN-qa-mwb.text" = "TOTAL POINTS";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "2S4-dk-1sW"; */
+"2S4-dk-1sW.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "No Data Found"; ObjectID = "2W5-hP-y4U"; */
+"2W5-hP-y4U.text" = "No Data Found";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "2b9-qv-NHN"; */
+"2b9-qv-NHN.text" = "Internal Server Error";
+
+/* Class = "UINavigationItem"; title = "Terms & Conditions"; ObjectID = "2ir-ze-d2b"; */
+"2ir-ze-d2b.title" = "Terms & Conditions";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "2tW-9L-Ra0"; */
+"2tW-9L-Ra0.text" = "OR";
+
+/* Class = "UILabel"; text = "Order Feedback"; ObjectID = "2vT-Mz-9K3"; */
+"2vT-Mz-9K3.text" = "Order Feedback";
+
+/* Class = "UITextField"; placeholder = "Enter Coupon Code"; ObjectID = "2zN-7J-EyF"; */
+"2zN-7J-EyF.placeholder" = "Enter Coupon Code";
+
+/* Class = "UITextField"; placeholder = "OTP"; ObjectID = "3Ho-VL-wSw"; */
+"3Ho-VL-wSw.placeholder" = "OTP";
+
+/* Class = "UILabel"; text = "FAQs"; ObjectID = "3oE-K2-BkF"; */
+"3oE-K2-BkF.text" = "FAQs";
+
+/* Class = "UILabel"; text = "Order Placed Successfully!!"; ObjectID = "3rj-sh-PCK"; */
+"3rj-sh-PCK.text" = "Order Placed Successfully!!";
+
+/* Class = "UILabel"; text = "Looks like no one have reviewed this store yet.You can be the first one!"; ObjectID = "3wK-jn-geH"; */
+"3wK-jn-geH.text" = "Looks like no one have reviewed this store yet.You can be the first one!";
+
+/* Class = "UILabel"; text = "loading..."; ObjectID = "43Y-8V-XSG"; */
+"43Y-8V-XSG.text" = "loading...";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "4KT-Cu-E4V"; */
+"4KT-Cu-E4V.normalTitle" = "Yes";
+
+/* Class = "UILabel"; text = "How It Works"; ObjectID = "4vb-zG-JHY"; */
+"4vb-zG-JHY.text" = "How It Works";
+
+/* Class = "UILabel"; text = "Your Order no is"; ObjectID = "52r-Q0-MlW"; */
+"52r-Q0-MlW.text" = "Your Order no is";
+
+/* Class = "UITextField"; placeholder = "Email "; ObjectID = "54g-NJ-mnQ"; */
+"54g-NJ-mnQ.placeholder" = "Email ";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "5Ku-qX-la9"; */
+"5Ku-qX-la9.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Powered By GPG"; ObjectID = "5Mu-a6-y1v"; */
+"5Mu-a6-y1v.text" = "Powered By GPG";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "5k4-Up-kXS"; */
+"5k4-Up-kXS.text" = "Support";
+
+/* Class = "UILabel"; text = "Mention your order no ( Ex W10053) for quick support"; ObjectID = "6Uf-EB-EgY"; */
+"6Uf-EB-EgY.text" = "Mention your order no ( Ex W10053) for quick support";
+
+/* Class = "UITextField"; placeholder = "Search by order ID"; ObjectID = "6ef-cq-nP0"; */
+"6ef-cq-nP0.placeholder" = "Search by order ID";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "6ln-ah-CXW"; */
+"6ln-ah-CXW.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "   Back to Cart"; ObjectID = "7NZ-Kh-2Kf"; */
+"7NZ-Kh-2Kf.normalTitle" = "   Back to Cart";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7bl-Rc-7Om"; */
+"7bl-Rc-7Om.text" = "Title";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "7oS-wF-qiw"; */
+"7oS-wF-qiw.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "No Data Found"; ObjectID = "7xE-iB-dfj"; */
+"7xE-iB-dfj.text" = "No Data Found";
+
+/* Class = "UITextField"; placeholder = "Enter Name"; ObjectID = "8Mc-6q-etx"; */
+"8Mc-6q-etx.placeholder" = "Enter Name";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "8do-7N-OEl"; */
+"8do-7N-OEl.placeholder" = "Current Password";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "8sC-hx-DPY"; */
+"8sC-hx-DPY.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "9Rj-DD-Gyt"; */
+"9Rj-DD-Gyt.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Looks like you havn't tried us yet! Trust us, its worth trying :) "; ObjectID = "9Xi-91-b3U"; */
+"9Xi-91-b3U.text" = "Looks like you havn't tried us yet! Trust us, its worth trying :) ";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "9cg-tt-I6r"; */
+"9cg-tt-I6r.text" = "Internal Server Error";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "9lW-vm-0Mz"; */
+"9lW-vm-0Mz.placeholder" = "Mobile Number";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "AiV-uB-6B2"; */
+"AiV-uB-6B2.normalTitle" = "DONE";
+
+/* Class = "UILabel"; text = "Proceed to Checkout"; ObjectID = "ArF-Yz-YI8"; */
+"ArF-Yz-YI8.text" = "Proceed to Checkout";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "BTh-Rv-lWB"; */
+"BTh-Rv-lWB.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "No Data Found"; ObjectID = "Bev-hG-udB"; */
+"Bev-hG-udB.text" = "No Data Found";
+
+/* Class = "UINavigationItem"; title = "Order Placed"; ObjectID = "C8f-fp-K3G"; */
+"C8f-fp-K3G.title" = "Order Placed";
+
+/* Class = "UITextField"; placeholder = "MM"; ObjectID = "CHh-jh-eFp"; */
+"CHh-jh-eFp.placeholder" = "MM";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CKs-2f-Agc"; */
+"CKs-2f-Agc.text" = "Label";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "CZr-bB-Vu7"; */
+"CZr-bB-Vu7.text" = "Internal Server Error";
+
+/* Class = "UIViewController"; title = "Promo Codes"; ObjectID = "Cj9-yb-xe4"; */
+"Cj9-yb-xe4.title" = "Promo Codes";
+
+/* Class = "UITextField"; placeholder = "Address line2 (Colony,Street,Floor)"; ObjectID = "CkB-Ib-QxN"; */
+"CkB-Ib-QxN.placeholder" = "Address line2 (Colony,Street,Floor)";
+
+/* Class = "UILabel"; text = "CARD DETAILS"; ObjectID = "DDi-t2-L8m"; */
+"DDi-t2-L8m.text" = "CARD DETAILS";
+
+/* Class = "UIButton"; normalTitle = "   Back to Items"; ObjectID = "DdI-Fr-X2H"; */
+"DdI-Fr-X2H.normalTitle" = "   Back to Items";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "Dqe-02-6ew"; */
+"Dqe-02-6ew.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "Dqy-Aj-uJT"; */
+"Dqy-Aj-uJT.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Search Item"; ObjectID = "Dxu-oC-wb6"; */
+"Dxu-oC-wb6.text" = "Search Item";
+
+/* Class = "UILabel"; text = "Offers"; ObjectID = "EKZ-Qw-ym5"; */
+"EKZ-Qw-ym5.text" = "Offers";
+
+/* Class = "UILabel"; text = "YUGAL1234"; ObjectID = "EV0-Fo-16a"; */
+"EV0-Fo-16a.text" = "YUGAL1234";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "EWg-eb-V2E"; */
+"EWg-eb-V2E.text" = "Edit Profile";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "Eat-6k-V1R"; */
+"Eat-6k-V1R.normalTitle" = "SUBMIT";
+
+/* Class = "UIButton"; normalTitle = "OKAY"; ObjectID = "EhZ-Gx-4lX"; */
+"EhZ-Gx-4lX.normalTitle" = "OKAY";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "Ewv-Yp-tM0"; */
+"Ewv-Yp-tM0.text" = "Change Password";
+
+/* Class = "UIButton"; normalTitle = "OKAY"; ObjectID = "F8j-2O-92p"; */
+"F8j-2O-92p.normalTitle" = "OKAY";
+
+/* Class = "UILabel"; text = "Login with social account"; ObjectID = "FEe-ij-SV4"; */
+"FEe-ij-SV4.text" = "Login with social account";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "FPi-ZI-Umh"; */
+"FPi-ZI-Umh.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Invite & Earn"; ObjectID = "FYv-B1-oIJ"; */
+"FYv-B1-oIJ.text" = "Invite & Earn";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "Fbu-6O-U3D"; */
+"Fbu-6O-U3D.placeholder" = "State";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "FjH-o6-BBv"; */
+"FjH-o6-BBv.title" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Create Password"; ObjectID = "G2U-rC-jq7"; */
+"G2U-rC-jq7.normalTitle" = "Create Password";
+
+/* Class = "UILabel"; text = "Pending since: 4 Jul, 2:24 PM"; ObjectID = "G2V-Mj-42N"; */
+"G2V-Mj-42N.text" = "Pending since: 4 Jul, 2:24 PM";
+
+/* Class = "UINavigationItem"; title = "Add a New Address"; ObjectID = "GXY-Bl-u0q"; */
+"GXY-Bl-u0q.title" = "Add a New Address";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "Gce-Ch-feu"; */
+"Gce-Ch-feu.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "Giz-ab-jfa"; */
+"Giz-ab-jfa.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "HDk-85-ZkY"; */
+"HDk-85-ZkY.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Rate on the scale of 1-5"; ObjectID = "Hg1-r8-3PG"; */
+"Hg1-r8-3PG.text" = "Rate on the scale of 1-5";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "HmC-tI-tbl"; */
+"HmC-tI-tbl.text" = "Internal Server Error";
+
+/* Class = "UIViewController"; title = "Search Location"; ObjectID = "Hw7-la-njE"; */
+"Hw7-la-njE.title" = "Search Location";
+
+/* Class = "UILabel"; text = "Order Placed"; ObjectID = "I3S-En-j6G"; */
+"I3S-En-j6G.text" = "Order Placed";
+
+/* Class = "UIBarButtonItem"; title = "DONE"; ObjectID = "I6n-eZ-dmB"; */
+"I6n-eZ-dmB.title" = "DONE";
+
+/* Class = "UINavigationItem"; title = "CHECKOUT"; ObjectID = "I7o-VK-iNf"; */
+"I7o-VK-iNf.title" = "CHECKOUT";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "IOI-ba-ilH"; */
+"IOI-ba-ilH.normalTitle" = "NEXT";
+
+/* Class = "UIViewController"; title = "Reset Password"; ObjectID = "ISY-yY-lxX"; */
+"ISY-yY-lxX.title" = "Reset Password";
+
+/* Class = "UIButton"; normalTitle = "App Language"; ObjectID = "Ieg-39-LDp"; */
+"Ieg-39-LDp.normalTitle" = "App Language";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "IhT-6G-l7K"; */
+"IhT-6G-l7K.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Sorry, we are not serving at your location yet. Try choosing another location."; ObjectID = "J3Z-FC-8mN"; */
+"J3Z-FC-8mN.text" = "Sorry, we are not serving at your location yet. Try choosing another location.";
+
+/* Class = "UITextField"; placeholder = "Mobile…"; ObjectID = "JSu-sC-vRV"; */
+"JSu-sC-vRV.placeholder" = "Mobile…";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "JYq-PL-sCC"; */
+"JYq-PL-sCC.normalTitle" = "X";
+
+/* Class = "UINavigationItem"; title = "Help & FAQ"; ObjectID = "Jj2-MZ-FiA"; */
+"Jj2-MZ-FiA.title" = "Help & FAQ";
+
+/* Class = "UIButton"; normalTitle = "CHANGE"; ObjectID = "K7e-gf-EBE"; */
+"K7e-gf-EBE.normalTitle" = "CHANGE";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "KQq-cX-d3A"; */
+"KQq-cX-d3A.text" = "Internal Server Error";
+
+/* Class = "UIButton"; normalTitle = "  Back"; ObjectID = "Kfs-QS-AZo"; */
+"Kfs-QS-AZo.normalTitle" = "  Back";
+
+/* Class = "UILabel"; text = "NO ADDRESS SAVED YET"; ObjectID = "Klw-Lf-3re"; */
+"Klw-Lf-3re.text" = "NO ADDRESS SAVED YET";
+
+/* Class = "UINavigationItem"; title = "Invite & Earn"; ObjectID = "Kzc-aK-0EW"; */
+"Kzc-aK-0EW.title" = "Invite & Earn";
+
+/* Class = "UITextField"; placeholder = "Search Item"; ObjectID = "L87-c4-42M"; */
+"L87-c4-42M.placeholder" = "Search Item";
+
+/* Class = "UITextField"; placeholder = "Referral Code (Optional)"; ObjectID = "LCL-0l-xyy"; */
+"LCL-0l-xyy.placeholder" = "Referral Code (Optional)";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "LE7-f0-4Qi"; */
+"LE7-f0-4Qi.text" = "Title";
+
+/* Class = "UILabel"; text = "Cart"; ObjectID = "LUc-CH-E9E"; */
+"LUc-CH-E9E.text" = "Cart";
+
+/* Class = "UILabel"; text = "Your Cart"; ObjectID = "LyT-HU-oWY"; */
+"LyT-HU-oWY.text" = "Your Cart";
+
+/* Class = "UINavigationItem"; title = "Edit Profile"; ObjectID = "MAI-qp-LeO"; */
+"MAI-qp-LeO.title" = "Edit Profile";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "MBT-UX-oUJ"; */
+"MBT-UX-oUJ.normalTitle" = "Update";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "Mcs-sW-UOr"; */
+"Mcs-sW-UOr.text" = "Search";
+
+/* Class = "UILabel"; text = "Enter email  to reset password"; ObjectID = "MdJ-fZ-z1x"; */
+"MdJ-fZ-z1x.text" = "Enter email  to reset password";
+
+/* Class = "UITextField"; placeholder = "Enter New Password"; ObjectID = "Mrl-Ft-QwB"; */
+"Mrl-Ft-QwB.placeholder" = "Enter New Password";
+
+/* Class = "UILabel"; text = "Proceed for payment"; ObjectID = "Mx6-c0-Ofa"; */
+"Mx6-c0-Ofa.text" = "Proceed for payment";
+
+/* Class = "UIButton"; normalTitle = "OKAY"; ObjectID = "NN9-X2-n2J"; */
+"NN9-X2-n2J.normalTitle" = "OKAY";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "NiJ-1G-Zpb"; */
+"NiJ-1G-Zpb.text" = "Profile";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "Nlw-Zs-qbM"; */
+"Nlw-Zs-qbM.text" = "Internal Server Error";
+
+/* Class = "UIButton"; normalTitle = "   Back to Cart"; ObjectID = "Nmi-xX-qjg"; */
+"Nmi-xX-qjg.normalTitle" = "   Back to Cart";
+
+/* Class = "UIButton"; normalTitle = "Submit OTP"; ObjectID = "Nwv-0h-4m7"; */
+"Nwv-0h-4m7.normalTitle" = "Submit OTP";
+
+/* Class = "UILabel"; text = "Please note down order number for future use."; ObjectID = "OMg-2c-m1e"; */
+"OMg-2c-m1e.text" = "Please note down order number for future use.";
+
+/* Class = "UILabel"; text = "You can add your Home, Office or Other address details here for faster checkout."; ObjectID = "Oa2-oX-EXF"; */
+"Oa2-oX-EXF.text" = "You can add your Home, Office or Other address details here for faster checkout.";
+
+/* Class = "UILabel"; text = "Pending"; ObjectID = "P6V-J5-ALN"; */
+"P6V-J5-ALN.text" = "Pending";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "PRA-Tb-Fdo"; */
+"PRA-Tb-Fdo.text" = "Payment";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "Pgd-oS-clb"; */
+"Pgd-oS-clb.text" = "Internal Server Error";
+
+/* Class = "UITextField"; placeholder = "Enter New Password"; ObjectID = "QAM-IU-Pl6"; */
+"QAM-IU-Pl6.placeholder" = "Enter New Password";
+
+/* Class = "UITextField"; placeholder = "Email..."; ObjectID = "QEW-pi-nm9"; */
+"QEW-pi-nm9.placeholder" = "Email...";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "QEd-4b-i5s"; */
+"QEd-4b-i5s.text" = "Expiry Date";
+
+/* Class = "UILabel"; text = "SK Fruits"; ObjectID = "QVl-Of-Ek0"; */
+"QVl-Of-Ek0.text" = "SK Fruits";
+
+/* Class = "UILabel"; text = "No Store Found"; ObjectID = "QW1-oT-WA4"; */
+"QW1-oT-WA4.text" = "No Store Found";
+
+/* Class = "UILabel"; text = "Debit and Credit Card"; ObjectID = "QbS-2R-lwJ"; */
+"QbS-2R-lwJ.text" = "Debit and Credit Card";
+
+/* Class = "UILabel"; text = "$0"; ObjectID = "QfM-lk-dsZ"; */
+"QfM-lk-dsZ.text" = "$0";
+
+/* Class = "UILabel"; text = "NOTHING TO ORDER"; ObjectID = "QiU-yJ-msB"; */
+"QiU-yJ-msB.text" = "NOTHING TO ORDER";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "RMo-iv-9Z6"; */
+"RMo-iv-9Z6.text" = "0";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "RNR-iW-VKT"; */
+"RNR-iW-VKT.text" = "Name";
+
+/* Class = "UILabel"; text = "Terms & Conditions"; ObjectID = "RXt-rT-tPT"; */
+"RXt-rT-tPT.text" = "Terms & Conditions";
+
+/* Class = "UILabel"; text = "Item Name"; ObjectID = "Rm9-kk-6l4"; */
+"Rm9-kk-6l4.text" = "Item Name";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Rwd-Bn-YqD"; */
+"Rwd-Bn-YqD.text" = "Title";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "S68-7b-hha"; */
+"S68-7b-hha.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Cancel Order"; ObjectID = "SNX-dL-jgh"; */
+"SNX-dL-jgh.text" = "Cancel Order";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "STI-wt-9JH"; */
+"STI-wt-9JH.text" = "Internal Server Error";
+
+/* Class = "UINavigationItem"; title = "SIGN UP"; ObjectID = "Spv-Iu-MsI"; */
+"Spv-Iu-MsI.title" = "SIGN UP";
+
+/* Class = "UIButton"; normalTitle = "View Order Details"; ObjectID = "T69-aI-LSz"; */
+"T69-aI-LSz.normalTitle" = "View Order Details";
+
+/* Class = "UILabel"; text = "NO FAQs YET"; ObjectID = "TFx-zr-Vdq"; */
+"TFx-zr-Vdq.text" = "NO FAQs YET";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "U17-8d-u3e"; */
+"U17-8d-u3e.text" = "N/A";
+
+/* Class = "UILabel"; text = "Add Address"; ObjectID = "Ubo-XS-iBs"; */
+"Ubo-XS-iBs.text" = "Add Address";
+
+/* Class = "UILabel"; text = "Sort / Filter"; ObjectID = "Unp-1F-wb5"; */
+"Unp-1F-wb5.text" = "Sort / Filter";
+
+/* Class = "UITextField"; placeholder = "Re-enter New Password"; ObjectID = "V8F-qy-ouM"; */
+"V8F-qy-ouM.placeholder" = "Re-enter New Password";
+
+/* Class = "UILabel"; text = "NO OFFERS YET"; ObjectID = "VAF-71-H9y"; */
+"VAF-71-H9y.text" = "NO OFFERS YET";
+
+/* Class = "UITextField"; placeholder = "YYYY"; ObjectID = "VKe-5L-Exu"; */
+"VKe-5L-Exu.placeholder" = "YYYY";
+
+/* Class = "UILabel"; text = "SEND EMAIL"; ObjectID = "VNG-Rp-bby"; */
+"VNG-Rp-bby.text" = "SEND EMAIL";
+
+/* Class = "UIButton"; normalTitle = "WORK"; ObjectID = "VbR-OD-UHB"; */
+"VbR-OD-UHB.normalTitle" = "WORK";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "VxF-Oo-2UE"; */
+"VxF-Oo-2UE.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "W2d-uM-rbi"; */
+"W2d-uM-rbi.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Wcq-3C-kxd"; */
+"Wcq-3C-kxd.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "Wf1-Jh-JBk"; */
+"Wf1-Jh-JBk.normalTitle" = "APPLY";
+
+/* Class = "UILabel"; text = "Order Details"; ObjectID = "WfV-tv-ZG9"; */
+"WfV-tv-ZG9.text" = "Order Details";
+
+/* Class = "UITextField"; placeholder = "Seach Store"; ObjectID = "Wpi-Lc-xyK"; */
+"Wpi-Lc-xyK.placeholder" = "Seach Store";
+
+/* Class = "UILabel"; text = "Create New Password"; ObjectID = "WwN-Qd-Hlt"; */
+"WwN-Qd-Hlt.text" = "Create New Password";
+
+/* Class = "UITextField"; placeholder = "xxxx xxxx xxxx xxxx"; ObjectID = "Wx8-2Y-nfX"; */
+"Wx8-2Y-nfX.placeholder" = "xxxx xxxx xxxx xxxx";
+
+/* Class = "UILabel"; text = "( 00:00 )"; ObjectID = "XIV-x5-gFb"; */
+"XIV-x5-gFb.text" = "( 00:00 )";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "XNv-r9-F82"; */
+"XNv-r9-F82.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "XdE-Bl-6Hj"; */
+"XdE-Bl-6Hj.text" = "Loading...";
+
+/* Class = "UITextField"; placeholder = "Enter Password…"; ObjectID = "Xon-ik-Lu8"; */
+"Xon-ik-Lu8.placeholder" = "Enter Password…";
+
+/* Class = "UIButton"; normalTitle = "CLEAR ALL"; ObjectID = "Y8I-PH-d4Z"; */
+"Y8I-PH-d4Z.normalTitle" = "CLEAR ALL";
+
+/* Class = "UITextField"; placeholder = "XXX"; ObjectID = "YFc-rp-ikv"; */
+"YFc-rp-ikv.placeholder" = "XXX";
+
+/* Class = "UILabel"; text = "Name on Card"; ObjectID = "Yd6-bD-N0b"; */
+"Yd6-bD-N0b.text" = "Name on Card";
+
+/* Class = "UILabel"; text = "NO REVIEWS YET"; ObjectID = "YfI-av-XkI"; */
+"YfI-av-XkI.text" = "NO REVIEWS YET";
+
+/* Class = "UILabel"; text = "Checkout"; ObjectID = "Yje-2O-I0Z"; */
+"Yje-2O-I0Z.text" = "Checkout";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "Z5E-8B-kIA"; */
+"Z5E-8B-kIA.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "$ 45.00"; ObjectID = "ZCX-QM-esp"; */
+"ZCX-QM-esp.text" = "$ 45.00";
+
+/* Class = "UIButton"; normalTitle = "  Back"; ObjectID = "ZUI-Sp-3LM"; */
+"ZUI-Sp-3LM.normalTitle" = "  Back";
+
+/* Class = "UINavigationItem"; title = "Notifications"; ObjectID = "ZXT-07-CWZ"; */
+"ZXT-07-CWZ.title" = "Notifications";
+
+/* Class = "UILabel"; text = "Your Basket"; ObjectID = "Zaw-go-cfx"; */
+"Zaw-go-cfx.text" = "Your Basket";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "aEe-8N-AQN"; */
+"aEe-8N-AQN.normalTitle" = "UPDATE";
+
+/* Class = "UILabel"; text = "Social Media"; ObjectID = "aM6-yk-Gzj"; */
+"aM6-yk-Gzj.text" = "Social Media";
+
+/* Class = "UILabel"; text = "Relax! There is nothing to be notified yet."; ObjectID = "aVu-pB-8Au"; */
+"aVu-pB-8Au.text" = "Relax! There is nothing to be notified yet.";
+
+/* Class = "UIButton"; normalTitle = "Oops, No"; ObjectID = "aa1-EA-mwp"; */
+"aa1-EA-mwp.normalTitle" = "Oops, No";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "b1b-yx-blf"; */
+"b1b-yx-blf.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "bFf-oG-TcP"; */
+"bFf-oG-TcP.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Thre is no history to show here."; ObjectID = "bKx-ZF-d7b"; */
+"bKx-ZF-d7b.text" = "Thre is no history to show here.";
+
+/* Class = "UILabel"; text = "EARN REWARD POINTS"; ObjectID = "brZ-EM-PEb"; */
+"brZ-EM-PEb.text" = "EARN REWARD POINTS";
+
+/* Class = "UILabel"; text = "Delivery Address"; ObjectID = "buJ-EH-eZE"; */
+"buJ-EH-eZE.text" = "Delivery Address";
+
+/* Class = "UILabel"; text = "One Time Password has been sent on your registered  email id."; ObjectID = "cNv-oN-f7P"; */
+"cNv-oN-f7P.text" = "One Time Password has been sent on your registered  email id.";
+
+/* Class = "UILabel"; text = "loading..."; ObjectID = "cQW-bx-Ls9"; */
+"cQW-bx-Ls9.text" = "loading...";
+
+/* Class = "UILabel"; text = "No HISTORY"; ObjectID = "ccP-NP-hNb"; */
+"ccP-NP-hNb.text" = "No HISTORY";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "ch1-FZ-Fdy"; */
+"ch1-FZ-Fdy.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Laundry"; ObjectID = "crj-Wu-5JL"; */
+"crj-Wu-5JL.text" = "Laundry";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "d75-FR-ICn"; */
+"d75-FR-ICn.normalTitle" = "SIGN UP";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "dLg-Pb-Kff"; */
+"dLg-Pb-Kff.text" = "Forgot Password";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "dZa-1G-TLh"; */
+"dZa-1G-TLh.text" = "Internal Server Error";
+
+/* Class = "UITextField"; placeholder = "Address line1 (Company Name,Housing No)"; ObjectID = "deu-1T-HN9"; */
+"deu-1T-HN9.placeholder" = "Address line1 (Company Name,Housing No)";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "dqd-jF-po3"; */
+"dqd-jF-po3.text" = "CVV";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "duz-62-vPa"; */
+"duz-62-vPa.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Update Version"; ObjectID = "dvW-Zm-7oJ"; */
+"dvW-Zm-7oJ.text" = "Update Version";
+
+/* Class = "UILabel"; text = "Help & FAQs"; ObjectID = "dwP-T6-Z6X"; */
+"dwP-T6-Z6X.text" = "Help & FAQs";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "e9b-Qb-huB"; */
+"e9b-Qb-huB.text" = "Internal Server Error";
+
+/* Class = "UIButton"; normalTitle = "Place Order"; ObjectID = "eSU-Ym-gBc"; */
+"eSU-Ym-gBc.normalTitle" = "Place Order";
+
+/* Class = "UILabel"; text = "Total value of Rs. 0"; ObjectID = "ehr-vn-bOV"; */
+"ehr-vn-bOV.text" = "Total value of Rs. 0";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "ehu-p9-3cW"; */
+"ehu-p9-3cW.normalTitle" = "Reset";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "emd-dv-x17"; */
+"emd-dv-x17.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "Item_name"; ObjectID = "fD8-52-mlS"; */
+"fD8-52-mlS.text" = "Item_name";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "fcd-tP-Emb"; */
+"fcd-tP-Emb.normalTitle" = "UPDATE";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "fdM-PY-vOB"; */
+"fdM-PY-vOB.text" = "Internal Server Error";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "fgX-Qb-grG"; */
+"fgX-Qb-grG.normalTitle" = "UPDATE";
+
+/* Class = "UITextField"; placeholder = "City/Town"; ObjectID = "fvd-UN-trd"; */
+"fvd-UN-trd.placeholder" = "City/Town";
+
+/* Class = "UITextField"; placeholder = "Type Locality, Area"; ObjectID = "g2c-kz-pYl"; */
+"g2c-kz-pYl.placeholder" = "Type Locality, Area";
+
+/* Class = "UILabel"; text = "NA"; ObjectID = "gRX-uj-FH7"; */
+"gRX-uj-FH7.text" = "NA";
+
+/* Class = "UILabel"; text = "NO DATA FOUND"; ObjectID = "ggC-A1-5sa"; */
+"ggC-A1-5sa.text" = "NO DATA FOUND";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "gnT-3T-tHd"; */
+"gnT-3T-tHd.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "There is a newer version available for download! Please update the app by visiting the Apple Store."; ObjectID = "h0T-Ra-v19"; */
+"h0T-Ra-v19.text" = "There is a newer version available for download! Please update the app by visiting the Apple Store.";
+
+/* Class = "UILabel"; text = "Edit Instructions"; ObjectID = "hB9-qn-NEK"; */
+"hB9-qn-NEK.text" = "Edit Instructions";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "hBO-QC-HrR"; */
+"hBO-QC-HrR.text" = "OR";
+
+/* Class = "UILabel"; text = "Enter One Time Password (OTP)"; ObjectID = "hBU-nY-Fub"; */
+"hBU-nY-Fub.text" = "Enter One Time Password (OTP)";
+
+/* Class = "UITextField"; placeholder = "Message"; ObjectID = "hK7-mK-Xvb"; */
+"hK7-mK-Xvb.placeholder" = "Message";
+
+/* Class = "UIButton"; normalTitle = "Skip login"; ObjectID = "hR1-92-Y6a"; */
+"hR1-92-Y6a.normalTitle" = "Skip login";
+
+/* Class = "UIButton"; normalTitle = "OTHER"; ObjectID = "hXt-6T-iyY"; */
+"hXt-6T-iyY.normalTitle" = "OTHER";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "hdS-oz-9nC"; */
+"hdS-oz-9nC.normalTitle" = "Ok";
+
+/* Class = "UIButton"; normalTitle = "ORDER NOW"; ObjectID = "hdo-eX-TYQ"; */
+"hdo-eX-TYQ.normalTitle" = "ORDER NOW";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "hz7-UZ-iGN"; */
+"hz7-UZ-iGN.normalTitle" = "Reset Password";
+
+/* Class = "UINavigationItem"; title = "Support"; ObjectID = "iLN-xq-ncy"; */
+"iLN-xq-ncy.title" = "Support";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "iNJ-3S-ONX"; */
+"iNJ-3S-ONX.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "iPA-Ij-qL3"; */
+"iPA-Ij-qL3.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "loading..."; ObjectID = "iXs-WN-er1"; */
+"iXs-WN-er1.text" = "loading...";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "ifT-Q6-6Ah"; */
+"ifT-Q6-6Ah.normalTitle" = "Yes";
+
+/* Class = "UILabel"; text = "NO ORDERS PLACED"; ObjectID = "ivE-IU-yKL"; */
+"ivE-IU-yKL.text" = "NO ORDERS PLACED";
+
+/* Class = "UIButton"; normalTitle = "Instruction"; ObjectID = "j40-du-UbN"; */
+"j40-du-UbN.normalTitle" = "Instruction";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "j4z-Ti-app"; */
+"j4z-Ti-app.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "   Back to Order"; ObjectID = "j7g-Vk-5KH"; */
+"j7g-Vk-5KH.normalTitle" = "   Back to Order";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jLB-H6-kXF"; */
+"jLB-H6-kXF.text" = "Title";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "jYA-Jj-1iS"; */
+"jYA-Jj-1iS.text" = "Price";
+
+/* Class = "UIButton"; normalTitle = "Type"; ObjectID = "jiU-sU-44E"; */
+"jiU-sU-44E.normalTitle" = "Type";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "kEX-Pm-L8T"; */
+"kEX-Pm-L8T.normalTitle" = "Apply";
+
+/* Class = "UILabel"; text = "Order Tracking #1223"; ObjectID = "kMB-t5-wy8"; */
+"kMB-t5-wy8.text" = "Order Tracking #1223";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "kRC-UF-aJe"; */
+"kRC-UF-aJe.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "NO STORE FOUND"; ObjectID = "khN-27-htZ"; */
+"khN-27-htZ.text" = "NO STORE FOUND";
+
+/* Class = "UILabel"; text = "Extra Payment"; ObjectID = "ko6-mT-zzM"; */
+"ko6-mT-zzM.text" = "Extra Payment";
+
+/* Class = "UILabel"; text = "Coupons & Offers"; ObjectID = "kqY-56-mEO"; */
+"kqY-56-mEO.text" = "Coupons & Offers";
+
+/* Class = "UILabel"; text = "loading.."; ObjectID = "l1J-em-v03"; */
+"l1J-em-v03.text" = "loading..";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "l8f-hv-fan"; */
+"l8f-hv-fan.normalTitle" = "APPLY";
+
+/* Class = "UIButton"; normalTitle = "CLEAR ALL"; ObjectID = "lFZ-2h-1R4"; */
+"lFZ-2h-1R4.normalTitle" = "CLEAR ALL";
+
+/* Class = "UILabel"; text = "loading..."; ObjectID = "lbH-In-GQo"; */
+"lbH-In-GQo.text" = "loading...";
+
+/* Class = "UINavigationItem"; title = "Orders"; ObjectID = "ler-Gt-Yrs"; */
+"ler-Gt-Yrs.title" = "Orders";
+
+/* Class = "UILabel"; text = "Search Location"; ObjectID = "lhe-Sa-OdY"; */
+"lhe-Sa-OdY.text" = "Search Location";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "lpA-Cc-ndd"; */
+"lpA-Cc-ndd.placeholder" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "Create an Account"; ObjectID = "m17-0f-TVr"; */
+"m17-0f-TVr.normalTitle" = "Create an Account";
+
+/* Class = "UILabel"; text = "Login with social account"; ObjectID = "m70-wG-il3"; */
+"m70-wG-il3.text" = "Login with social account";
+
+/* Class = "UITextField"; placeholder = "Confirm Password…"; ObjectID = "m7h-uh-TAJ"; */
+"m7h-uh-TAJ.placeholder" = "Confirm Password…";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "mK6-3E-rJk"; */
+"mK6-3E-rJk.text" = "0";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "mV2-QM-T9Q"; */
+"mV2-QM-T9Q.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "No Offer Found"; ObjectID = "mr0-gd-T4c"; */
+"mr0-gd-T4c.text" = "No Offer Found";
+
+/* Class = "UILabel"; text = "Select Time"; ObjectID = "n1x-4e-crZ"; */
+"n1x-4e-crZ.text" = "Select Time";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "nBM-dt-UY4"; */
+"nBM-dt-UY4.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Invite friends & earn reward points when they sign up."; ObjectID = "nKa-WY-KhH"; */
+"nKa-WY-KhH.text" = "Invite friends & earn reward points when they sign up.";
+
+/* Class = "UIButton"; normalTitle = "ADD ITEM"; ObjectID = "nqQ-8m-Ve3"; */
+"nqQ-8m-Ve3.normalTitle" = "ADD ITEM";
+
+/* Class = "UILabel"; text = "Thanks for placing the order."; ObjectID = "oC6-eb-9tc"; */
+"oC6-eb-9tc.text" = "Thanks for placing the order.";
+
+/* Class = "UILabel"; text = "address"; ObjectID = "oab-Uo-FZo"; */
+"oab-Uo-FZo.text" = "address";
+
+/* Class = "UIButton"; normalTitle = "Re-Send OTP"; ObjectID = "p6D-Ga-m47"; */
+"p6D-Ga-m47.normalTitle" = "Re-Send OTP";
+
+/* Class = "UILabel"; text = "Sort / Filter"; ObjectID = "pPE-Wz-jPt"; */
+"pPE-Wz-jPt.text" = "Sort / Filter";
+
+/* Class = "UILabel"; text = "Laundry"; ObjectID = "pPU-37-cLc"; */
+"pPU-37-cLc.text" = "Laundry";
+
+/* Class = "UIButton"; normalTitle = "Support"; ObjectID = "plc-AZ-DBH"; */
+"plc-AZ-DBH.normalTitle" = "Support";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "r69-hK-G7i"; */
+"r69-hK-G7i.text" = "Wallet";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "rW9-2R-ALf"; */
+"rW9-2R-ALf.text" = "Reset Password";
+
+/* Class = "UILabel"; text = "Custom Order Notification"; ObjectID = "rWa-tZ-XLS"; */
+"rWa-tZ-XLS.text" = "Custom Order Notification";
+
+/* Class = "UINavigationItem"; title = "Order Details #23542"; ObjectID = "rXE-c8-HKt"; */
+"rXE-c8-HKt.title" = "Order Details #23542";
+
+/* Class = "UIButton"; normalTitle = "INVITE FRIENDS"; ObjectID = "rk4-xr-PpG"; */
+"rk4-xr-PpG.normalTitle" = "INVITE FRIENDS";
+
+/* Class = "UIButton"; normalTitle = "I am agree with  Terms & Conditions."; ObjectID = "rsT-qD-Q9S"; */
+"rsT-qD-Q9S.normalTitle" = "I am agree with  Terms & Conditions.";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "sDu-3b-mnO"; */
+"sDu-3b-mnO.text" = "0";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "sQe-mn-2o2"; */
+"sQe-mn-2o2.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "sTE-JF-SVt"; */
+"sTE-JF-SVt.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "sgy-gW-Im4"; */
+"sgy-gW-Im4.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "ADD NOW"; ObjectID = "soP-vn-0d6"; */
+"soP-vn-0d6.normalTitle" = "ADD NOW";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "syv-KM-1sl"; */
+"syv-KM-1sl.text" = "Title";
+
+/* Class = "UILabel"; text = "Edit Item Variants"; ObjectID = "tBA-nP-LkT"; */
+"tBA-nP-LkT.text" = "Edit Item Variants";
+
+/* Class = "UILabel"; text = "NO DATA FOUND"; ObjectID = "tUH-eG-TnU"; */
+"tUH-eG-TnU.text" = "NO DATA FOUND";
+
+/* Class = "UILabel"; text = "Your cart is empty. Add some items from the menu page."; ObjectID = "tXT-BU-FVC"; */
+"tXT-BU-FVC.text" = "Your cart is empty. Add some items from the menu page.";
+
+/* Class = "UILabel"; text = "SK Fruits"; ObjectID = "tvd-Rh-gHx"; */
+"tvd-Rh-gHx.text" = "SK Fruits";
+
+/* Class = "UILabel"; text = "Your have 0 Loyalty points"; ObjectID = "u4G-EO-2nc"; */
+"u4G-EO-2nc.text" = "Your have 0 Loyalty points";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "uQK-gN-ChC"; */
+"uQK-gN-ChC.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "uQs-ee-vLd"; */
+"uQs-ee-vLd.text" = "Internal Server Error";
+
+/* Class = "UIButton"; normalTitle = "CANCEL ORDER"; ObjectID = "uYT-XV-dmh"; */
+"uYT-XV-dmh.normalTitle" = "CANCEL ORDER";
+
+/* Class = "UILabel"; text = "Card Number"; ObjectID = "ueZ-6w-TJl"; */
+"ueZ-6w-TJl.text" = "Card Number";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "ukT-XO-TJT"; */
+"ukT-XO-TJT.text" = "Internal Server Error";
+
+/* Class = "UIButton"; normalTitle = "Reload"; ObjectID = "uwM-BP-TDx"; */
+"uwM-BP-TDx.normalTitle" = "Reload";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "v1q-C2-bXc"; */
+"v1q-C2-bXc.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "Share your referral code"; ObjectID = "vI0-wO-bIQ"; */
+"vI0-wO-bIQ.text" = "Share your referral code";
+
+/* Class = "UILabel"; text = "Orders"; ObjectID = "vhX-Su-KVB"; */
+"vhX-Su-KVB.text" = "Orders";
+
+/* Class = "UINavigationItem"; title = "Terms & Conditions"; ObjectID = "wZI-Cg-MLe"; */
+"wZI-Cg-MLe.title" = "Terms & Conditions";
+
+/* Class = "UIViewController"; title = "How It Works"; ObjectID = "xBg-3J-PXB"; */
+"xBg-3J-PXB.title" = "How It Works";
+
+/* Class = "UILabel"; text = "No Location Found"; ObjectID = "xQV-f1-HSZ"; */
+"xQV-f1-HSZ.text" = "No Location Found";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "xok-0G-XE3"; */
+"xok-0G-XE3.normalTitle" = "Update";
+
+/* Class = "UITextView"; text = "\n"; ObjectID = "xow-VS-eHM"; */
+"xow-VS-eHM.text" = "\n";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "y26-RC-fW2"; */
+"y26-RC-fW2.text" = "0";
+
+/* Class = "UILabel"; text = "Loading.."; ObjectID = "y3b-ao-bdv"; */
+"y3b-ao-bdv.text" = "Loading..";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM DETAILS"; ObjectID = "yeA-xb-nzJ"; */
+"yeA-xb-nzJ.normalTitle" = "CONFIRM DETAILS";
+
+/* Class = "UILabel"; text = "CALL NOW"; ObjectID = "yjw-Vn-Ui1"; */
+"yjw-Vn-Ui1.text" = "CALL NOW";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "z4C-iU-ahc"; */
+"z4C-iU-ahc.normalTitle" = "No";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "zCP-LG-r27"; */
+"zCP-LG-r27.text" = "Internal Server Error";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "zKB-xN-1Ze"; */
+"zKB-xN-1Ze.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Internal Server Error"; ObjectID = "zXp-hB-PB7"; */
+"zXp-hB-PB7.text" = "Internal Server Error";
+
+/* Class = "UILabel"; text = "Regenerate OTP"; ObjectID = "zzf-Us-HcT"; */
+"zzf-Us-HcT.text" = "Regenerate OTP";
